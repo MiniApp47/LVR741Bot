@@ -233,6 +233,23 @@ document.addEventListener('DOMContentLoaded', function () {
                     image: '',
                     badgeText: '',
                     products: [
+                        {
+                            id: 'Strawberry Colato 🍓',
+                            flag: '💎',
+                            name: 'Strawberry Colato 🍓',
+                            farm: 'Sticky Fingers 🌱',
+                            promoEligible: true,
+                            type: 'Filtrer',
+                            image: 'ProductColato.jpg',
+                            video: '',
+                            description: '🚨 EXCLU 2026 🚨 \n\n 💎 Nouvelle frappe filtrée DISPONIBLE \n La team, du très lourd vient d’atterrir 💥 \n\n 🔬 Microns : 90u \n Texture premium, résine ultra clean, qualité au rendez-vous 😮‍🔥 \n\n ⚡ Quantités limitées – premiers arrivés, premiers servis ⚡ ',
+                            tarifs: [
+                                { weight: '10g', price: 90.00 },
+                                { weight: '25g', price: 180.00 },
+                                { weight: '50g', price: 320.00 },
+                                { weight: '100g', price: 570.00 },
+                            ]
+                        },
                          {
                             id: 'VR6 ☢️',
                             flag: '🇲🇦',
@@ -630,6 +647,23 @@ document.addEventListener('DOMContentLoaded', function () {
                     image: '',
                     badgeText: '',
                     products: [
+                        {
+                            id: 'GRAPPE LOOP 🌟',
+                            flag: '💎',
+                            name: 'GRAPPE LOOP 🌟',
+                            farm: '🔥🚀 PLASMA STATIC 🔥🚀',
+                            promoEligible: true,
+                            type: 'Filtrer',
+                            image: 'ProductGL.jpg',
+                            video: 'VideoGL.mp4',
+                            description: '🚨 Drop exclusif 🚨 \n\n 🔥 Le Plasmastatic est un système de pointe qui utilise l\'électricité statique et le plasma froid pour séparer proprement et précisément les têtes de trichomes de la biomasse de cannabis, sans aucun solvant chimique.\n\n En d’autre termes c’est le produit le plus fort du menu et sûrement de la ville. \n 0 triche, que du pure bonheur.',
+                            tarifs: [
+                                { weight: '10g', price: 130.00 },
+                                { weight: '25g', price: 240.00 },
+                                { weight: '50g', price: 460.00 },
+                                { weight: '100g', price: 800.00 },
+                            ]
+                        },
                       /*  {
                             id: 'STATIC RED VELVET 🌟',
                             flag: '💎',
@@ -672,6 +706,23 @@ document.addEventListener('DOMContentLoaded', function () {
                     image: '',
                     badgeText: '',
                     products: [
+                        {
+                            id: 'CHERRY JUICE 🍒',
+                            flag: '🇺🇸',
+                            name: 'CHERRY JUICE 🍒',
+                            farm: '🇺🇸 NO FARM',
+                            promoEligible: false,
+                            type: 'Weed',
+                            image: 'ProductCJ.png',
+                            video: 'VideoCJ.mp4',
+                            description: '🚨 NOUVEAUTÉ – CALI US 🚨 \n Certifié californienne 100% 🇺🇸🍭🍯',
+                            tarifs: [
+                                { weight: '10g', price: 100.00 },
+                                { weight: '25g', price: 220.00 },
+                                { weight: '50g', price: 380.00 },
+                                { weight: '100g', price: 650.00 },
+                            ]
+                        }
                          /* {
                             id: 'BLUE BERRY 🥞',
                             flag: '🇺🇸',
