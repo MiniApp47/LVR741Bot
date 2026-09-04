@@ -245,9 +245,9 @@ document.addEventListener('DOMContentLoaded', function () {
                             description: '🚨 EXCLU 2026 🚨 \n\n 💎 Nouvelle frappe filtrée DISPONIBLE \n La team, du très lourd vient d’atterrir 💥 \n\n 🔬 Microns : 90u \n Texture premium, résine ultra clean, qualité au rendez-vous 😮‍🔥 \n\n ⚡ Quantités limitées – premiers arrivés, premiers servis ⚡ ',
                             tarifs: [
                                 { weight: '10g', price: 90.00 },
-                                { weight: '25g', price: 180.00 },
-                                { weight: '50g', price: 320.00 },
-                                { weight: '100g', price: 570.00 },
+                                { weight: '25g', price: 160.00 },
+                                { weight: '50g', price: 280.00 },
+                                { weight: '100g', price: 520.00 },
                             ]
                         },
                          {
@@ -656,7 +656,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             type: 'Filtrer',
                             image: 'ProductGL.jpg',
                             video: 'VideoGL.mp4',
-                            description: '🚨 Drop exclusif 🚨 \n\n 🔥 Le Plasmastatic est un système de pointe qui utilise l\'électricité statique et le plasma froid pour séparer proprement et précisément les têtes de trichomes de la biomasse de cannabis, sans aucun solvant chimique.\n\n En d’autre termes c’est le produit le plus fort du menu et sûrement de la ville. \n 0 triche, que du pure bonheur.',
+                            description: '🚨 Drop exclusif 🚨 \n\n 🔥 Le Plasmastatic est un système de pointe qui utilise l\'électricité statique et le plasma froid pour séparer proprement et précisément les têtes de trichomes de la biomasse de cannabis, sans aucun solvant chimique.\n\n En d’autre termes c’est le produit le plus fort du menu et sûrement de la ville. \n Zéro triche, que du pure bonheur.',
                             tarifs: [
                                 { weight: '10g', price: 130.00 },
                                 { weight: '25g', price: 240.00 },
