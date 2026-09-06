@@ -75,8 +75,8 @@ document.addEventListener('DOMContentLoaded', function () {
                     tarifs: [
                         { weight: '1g', price: 60.00 },
                         { weight: '2g', price: 110.00 },
-                        { weight: '5g', price: 240.00 },
-                        { weight: '10g', price: 400.00 },
+                        { weight: '5g', price: 270.00 },
+                        { weight: '10g', price: 450.00 },
                     ]
                 },
             
