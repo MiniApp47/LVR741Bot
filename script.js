@@ -647,6 +647,40 @@ document.addEventListener('DOMContentLoaded', function () {
                     image: '',
                     badgeText: '',
                     products: [
+                         {
+                            id: 'STATIC SIFT ⚡️',
+                            flag: '💎',
+                            name: 'STATIC SIFT ⚡️',
+                            farm: '🔥 GOLD MOUNTAINS FARMS 🔥',
+                            promoEligible: true,
+                            type: 'Filtrer',
+                            image: 'ProductSS.jpg',
+                            video: 'VideoSS.mp4',
+                            description: '🔥STATIC-SIFT DE CHEZ GOLDEN MOUNTAIN FARMS🔥 \n MADE IN 🇺🇸🚀',
+                            tarifs: [
+                                { weight: '5g', price: 90.00 },
+                                { weight: '10g', price: 180.00 },
+                                { weight: '25g', price: 350.00 },
+                                { weight: '50g', price: 700.00 },
+                            ]
+                        },
+                         {
+                            id: 'PLASMA STATIC 🌟',
+                            flag: '💎',
+                            name: '🏆 PLASMA STATIC 🏆',
+                            farm: '🔥 GOLD MOUNTAINS FARMS 🔥',
+                            promoEligible: true,
+                            type: 'Filtrer',
+                            image: 'ProductPS.jpg',
+                            video: 'VideoPS.mp4',
+                            description: '🔥🚀PLASMA STATIC DE CHEZ GOLDEN MOUNTAIN FARMZ 🔥 \n MADE IN 🇺🇸🚀',
+                            tarifs: [
+                                { weight: '5g', price: 90.00 },
+                                { weight: '10g', price: 180.00 },
+                                { weight: '25g', price: 350.00 },
+                                { weight: '50g', price: 700.00 },
+                            ]
+                        },
                         {
                             id: 'GRAPPE LOOP 🌟',
                             flag: '💎',
