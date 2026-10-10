@@ -658,10 +658,11 @@ document.addEventListener('DOMContentLoaded', function () {
                             video: 'VideoSS.mp4',
                             description: '🔥STATIC-SIFT DE CHEZ GOLDEN MOUNTAIN FARMS🔥 \n MADE IN 🇺🇸🚀',
                             tarifs: [
-                                { weight: '5g', price: 90.00 },
-                                { weight: '10g', price: 180.00 },
-                                { weight: '25g', price: 350.00 },
-                                { weight: '50g', price: 700.00 },
+                                { weight: '5g', price: 60.00 },
+                                { weight: '10g', price: 100.00 },
+                                { weight: '25g', price: 220.00 },
+                                { weight: '50g', price: 400.00 },
+                                { weight: '100g', price: 750.00 },
                             ]
                         },
                          {
